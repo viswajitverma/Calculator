@@ -1,3 +1,5 @@
+# Basic_Calculator
+
 Developing a Calculator after learning basic of HTML, CSS & JavaScript is one of the best
 ways to understand the core concept and implement it to make something useful.
 This Calculator you can modify as per your need to perform both simple and complex
