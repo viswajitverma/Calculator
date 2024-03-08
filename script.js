@@ -18,7 +18,7 @@ arr.forEach(button => {
             string = string.substring(0, string.length-1);
             input.value = string;
         }
-        else if(e.target.innerHTML == 'x^2') { // Check for the square button
+        else if(e.target.innerHTML == 'x²') { // Check for the square button
             string = `${parseFloat(string) ** 2}`; // Perform squaring operation
             input.value = string;
         }
